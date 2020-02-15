@@ -1,0 +1,14 @@
+\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\locationserver\locationserver\bin\Debug\locationserver.exe.config
+\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\locationserver\locationserver\bin\Debug\locationserver.exe
+\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\locationserver\locationserver\bin\Debug\locationserver.pdb
+\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\locationserver\locationserver\obj\Debug\locationserver.exe
+\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\joshu\Desktop\locationserver\locationserver\bin\Debug\locationserver.exe.config
+C:\Users\joshu\Desktop\locationserver\locationserver\bin\Debug\locationserver.exe
+C:\Users\joshu\Desktop\locationserver\locationserver\bin\Debug\locationserver.pdb
+C:\Users\joshu\Desktop\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\locationserver\locationserver\obj\Debug\locationserver.exe
+C:\Users\joshu\Desktop\locationserver\locationserver\obj\Debug\locationserver.pdb
+C:\Users\joshu\Desktop\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache

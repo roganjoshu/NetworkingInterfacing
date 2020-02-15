@@ -1,0 +1,6 @@
+05/02/2020 11:56:55.52 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+05/02/2020 12:06:37.57 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+05/02/2020 12:16:37.28 All tests of location completed: 2 passed, 1 advisory, 2 failed (of 28 total). 
+05/02/2020 12:19:24.14 All tests of location completed: 4 passed, 0 advisory, 1 failed (of 28 total). 
+05/02/2020 12:22:21.56 All tests of location completed: 5 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for JOSH PRIEST (563327) at 05/02/2020 12:22:24.29 on FEN-052-088 

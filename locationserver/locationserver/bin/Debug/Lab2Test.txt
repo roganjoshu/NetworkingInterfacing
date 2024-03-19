@@ -1,0 +1,18 @@
+17/02/2020 14:05:04.11 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+17/02/2020 14:20:01.53 All tests of whois.net.dcs.hull.ac.uk completed: 2 passed, 0 advisory, 6 failed (of 16 total). 
+18/02/2020 10:08:08.59 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+18/02/2020 10:09:08.89 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+18/02/2020 10:30:17.54 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 7 failed (of 16 total). 
+18/02/2020 10:38:35.84 All tests of whois.net.dcs.hull.ac.uk completed: 6 passed, 1 advisory, 1 failed (of 16 total). 
+18/02/2020 10:52:51.25 All tests of whois.net.dcs.hull.ac.uk completed: 6 passed, 1 advisory, 1 failed (of 16 total). 
+18/02/2020 10:55:39.92 All tests of whois.net.dcs.hull.ac.uk completed: 6 passed, 1 advisory, 1 failed (of 16 total). 
+18/02/2020 10:56:41.38 All tests of whois.net.dcs.hull.ac.uk completed: 6 passed, 1 advisory, 1 failed (of 16 total). 
+18/02/2020 11:14:39.88 All tests of whois.net.dcs.hull.ac.uk completed: 6 passed, 1 advisory, 1 failed (of 16 total). 
+18/02/2020 11:31:04.76 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+18/02/2020 11:37:04.94 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+18/02/2020 12:25:25.63 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+19/02/2020 11:11:37.52 All tests of whois.net.dcs.hull.ac.uk completed: 8 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for JOSH PRIEST (563327) at 19/02/2020 11:11:39.90 on FEN-052-076 
+12/03/2020 13:18:59.73 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 16 total). 
+12/03/2020 13:20:02.03 All tests of whois.net.dcs.hull.ac.uk completed: 8 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for JOSH PRIEST (563327) at 12/03/2020 13:20:03.86 on BJL-3F-12 

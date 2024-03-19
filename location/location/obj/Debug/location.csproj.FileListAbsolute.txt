@@ -1,17 +1,3 @@
-G:\Year2\Trimester2\Networking\location\location\bin\Debug\location.exe.config
-G:\Year2\Trimester2\Networking\location\location\bin\Debug\location.exe
-G:\Year2\Trimester2\Networking\location\location\bin\Debug\location.pdb
-G:\Year2\Trimester2\Networking\location\location\obj\Debug\location.csprojAssemblyReference.cache
-G:\Year2\Trimester2\Networking\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
-G:\Year2\Trimester2\Networking\location\location\obj\Debug\location.exe
-G:\Year2\Trimester2\Networking\location\location\obj\Debug\location.pdb
-\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\location\location\bin\Debug\location.exe.config
-\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\location\location\bin\Debug\location.exe
-\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\location\location\bin\Debug\location.pdb
-\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\location\location\obj\Debug\location.csprojAssemblyReference.cache
-\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
-\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\location\location\obj\Debug\location.exe
-\\adir.hull.ac.uk\home\563\563327\Year2\Trimester2\Networking\location\location\obj\Debug\location.pdb
 C:\Users\joshu\Desktop\location\location\bin\Debug\location.exe.config
 C:\Users\joshu\Desktop\location\location\bin\Debug\location.exe
 C:\Users\joshu\Desktop\location\location\bin\Debug\location.pdb
@@ -19,3 +5,17 @@ C:\Users\joshu\Desktop\location\location\obj\Debug\location.csprojAssemblyRefere
 C:\Users\joshu\Desktop\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
 C:\Users\joshu\Desktop\location\location\obj\Debug\location.exe
 C:\Users\joshu\Desktop\location\location\obj\Debug\location.pdb
+C:\Users\joshu\Desktop\Networking-JP\location\location\bin\Debug\location.exe.config
+C:\Users\joshu\Desktop\Networking-JP\location\location\bin\Debug\location.exe
+C:\Users\joshu\Desktop\Networking-JP\location\location\bin\Debug\location.pdb
+C:\Users\joshu\Desktop\Networking-JP\location\location\obj\Debug\location.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Networking-JP\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Networking-JP\location\location\obj\Debug\location.exe
+C:\Users\joshu\Desktop\Networking-JP\location\location\obj\Debug\location.pdb
+G:\Year2\Trimester2\Networking\New folder\location\location\bin\Debug\location.exe.config
+G:\Year2\Trimester2\Networking\New folder\location\location\bin\Debug\location.exe
+G:\Year2\Trimester2\Networking\New folder\location\location\bin\Debug\location.pdb
+G:\Year2\Trimester2\Networking\New folder\location\location\obj\Debug\location.csprojAssemblyReference.cache
+G:\Year2\Trimester2\Networking\New folder\location\location\obj\Debug\location.csproj.CoreCompileInputs.cache
+G:\Year2\Trimester2\Networking\New folder\location\location\obj\Debug\location.exe
+G:\Year2\Trimester2\Networking\New folder\location\location\obj\Debug\location.pdb

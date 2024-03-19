@@ -1,0 +1,9 @@
+12/03/2020 13:22:18.39 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+12/03/2020 13:32:18.79 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+12/03/2020 13:55:56.50 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+12/03/2020 14:01:35.43 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+12/03/2020 14:18:16.45 All tests of location completed: 18 passed, 2 advisory, 0 failed (of 111 total). 
+12/03/2020 16:53:00.97 All tests of location completed: 18 passed, 1 advisory, 1 failed (of 111 total). 
+12/03/2020 16:59:17.53 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+12/03/2020 17:04:44.32 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
+12/03/2020 17:10:17.95 All tests of location completed: 19 passed, 1 advisory, 0 failed (of 111 total). 
